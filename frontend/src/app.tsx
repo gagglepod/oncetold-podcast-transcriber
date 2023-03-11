@@ -87,7 +87,8 @@ function Form({ onSubmit, searching }) {
         </p>
         <p className="mb-1">
           <span>If you just want to see some transcripts, we ❤️ these Oncetold podcasts: <br /></span>
-          <a className="text-indigo-500 no-underline hover:underline" href="/#/podcast/1322931"><em>War Yankee</em></a> and <a className="text-indigo-500 no-underline hover:underline" href="/#/podcast/931193"><em>PAUSE for Dramatic Effect</em></a>.
+          <a className="text-indigo-500 no-underline hover:underline" href="/#/podcast/1322931"><em>War Yankee</em></a><br />
+          <a className="text-indigo-500 no-underline hover:underline" href="/#/podcast/5056650"><em>PAUSE for Dramatic Effect</em></a>
         </p>
       </div>
 
